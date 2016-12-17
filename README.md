@@ -22,6 +22,12 @@ npm start
 
 Modify `public/config.json` to point towards the directory/directories in which you store your music files.
 
+## ToDo
+
++ Play next song
++ Being able to make a playlist
++ Basically all the functions of a general music player.
+
 _Note: I'm working on Node.js version 4.7.0_
 
 _Another Note: There is a bug in `jsmediatags` library due to which album arts of bigger than normal size fail to load. So don't blame me._
